@@ -1,0 +1,271 @@
+
+/* Style the navigation bar */
+.navbar {
+    background-color: #333; /* Background color for the navbar */
+}
+
+/* Style the list items in the navbar */
+.navbar ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Display the list items in a row */
+}
+
+/* Style the individual list items */
+.navbar li {
+    margin: 0 10px; /* Add spacing between list items */
+}
+
+/* Style the anchor (link) elements */
+.navbar a {
+    text-decoration: none; /* Remove underline from links */
+    color: white; /* Text color for links */
+}
+
+
+
+h1 {
+    text-decoration: underline;
+    color: #4a4949;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+
+/* a{
+    text-decoration: none;
+    float: left;
+    list-style: none;
+   
+
+
+} */
+
+* {
+    
+    padding: 11px;
+    margin: -5px;
+    box-sizing: border-box;
+}
+
+
+.slide {
+
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+
+}
+
+
+.flexcontainer {
+    font-size: 20px;
+    color: #696868;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    white-space: pre-wrap;
+    font-family: 'Dancing Script', cursive;
+    /*font-family: 'Poppins', sans-serif;*/
+}
+
+.profess {
+
+    width: 30%;
+    float: right;
+    margin-right: 5%;
+
+}
+
+#textinsidepro {
+    font-size: 25px;
+    text-decoration: underline;
+    margin-top: 25px;
+    margin-left: 20%;
+    color: #b0b0b0;
+}
+
+#hello {
+    
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 20%;
+}
+
+#pricelist{
+
+    position: absolute;
+    bottom: -1200px;
+    left: 0;
+    right: 0;
+
+}
+.pro {
+
+
+    position: absolute;
+    width: 70%;
+    left: 15%;
+
+}
+
+.centered-hr {
+    margin: 0 auto;
+}
+
+.newwproo {
+    
+  
+    position: absolute;
+    left: 15%;
+    width: 20%;
+    margin-top: 300px;
+
+}
+
+.banner-text {
+    text-shadow: #000000;
+    font-family: 'Cinzel', serif;
+    font-size: 45px;
+    position: absolute;
+    top: 0;
+    margin-top: 270px;
+    left: 10%;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+
+
+}
+
+.test1 {
+    font-size: 25px;
+    text-decoration: underline;
+    margin-top: 25px;
+    margin-left: 35%;
+    color: #b0b0b0;
+    position: absolute;
+    left: 10%;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.test {
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 32%;
+    position: absolute;
+    left: 10%;
+    margin-top: 350px;
+    text-align: center;
+    /* Center-align the text within the element */
+}
+
+
+.saloon {
+    margin-top: 80px;
+    position: absolute;
+    width: 70%;
+    left: 15%;
+
+}
+
+.saloonwork {
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+
+}
+
+.footercontainer {
+    width: 100%;
+    padding: 70px 30px 20px;
+}
+
+.navbar {
+    padding: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+/* .navbar li {
+    float: left;
+    list-style: none;
+    margin: 13px 23px;
+
+
+} */
+
+.navbar ul {
+    padding: 11px;
+    margin: -5px;
+    box-sizing: border-box;
+}
+
+
+
+.footerBottom {
+    position: absolute;
+   
+    bottom: -2800px;
+    left: 0;
+    right: 0;
+    padding: 25px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+}
+/* h2{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    color: #4a4949;
+    text-decoration: underline;
+} */
+
+.rate{
+   
+    text-align: center;
+    left: 10%;
+    width: 80%;
+    position: absolute;
+    bottom: -950px;
+  
+}
+
+
+
+.rateshead{
+
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    color: #4a4949;
+    text-decoration: underline;
+    top: 1;
+}
+
+#pricelist{
+
+    color: #4a4949;
+
+}
+
+
+.appointment{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: #ffffff;
+    background-image: url("img/3.jpg");
+    left: 10%;
+    background-repeat: no-repeat;
+    background-size: 1800px 700px;
+    width: 80%;
+   opacity: 80%;
+    position: absolute;
+    bottom: -2700px;
+  
+}
+
+.form{
+    text-align: center;
+
+}
